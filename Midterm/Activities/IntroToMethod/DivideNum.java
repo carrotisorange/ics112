@@ -1,3 +1,4 @@
+package IntroToMethod;
 import java.util.Scanner;
 public class DivideNum {
     public static void main(String[] args) {

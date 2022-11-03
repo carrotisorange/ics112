@@ -1,3 +1,4 @@
+package VoidAndNonVoidMethods;
 class CalculateMethod {
 
   public static void addNumVoid(int x, int y)
